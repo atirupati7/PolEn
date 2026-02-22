@@ -1,0 +1,24 @@
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+websockets==12.0
+pandas==2.1.4
+numpy==1.26.2
+scipy==1.11.4
+pyarrow==14.0.2
+numba==0.58.1
+scikit-learn==1.3.2
+fredapi==0.5.1
+httpx==0.25.2
+python-dotenv==1.0.0
+pydantic==2.5.2
+pydantic-settings==2.1.0
+pytest==7.4.3
+pytest-asyncio==0.23.2
+
+# Neural transition + RL upgrade
+torch>=2.1.0
+gymnasium>=0.29.0
+stable-baselines3>=2.2.0
+tensorboard>=2.15.0
+streamlit>=1.29.0
+pyyaml>=6.0

@@ -1,0 +1,10 @@
+regime,policy_action,stress_delta_12m,crisis_prob_12m,leverage_vs_hold
+Normal,Ease,-0.3881,0.415,0.315
+Normal,Hold,-0.0731,0.42,0.0
+Normal,Tighten,0.2608,0.44,0.3339
+Fragile,Ease,-0.6986,0.611,0.567
+Fragile,Hold,-0.1316,0.62,0.0
+Fragile,Tighten,0.4694,0.656,0.601
+Crisis,Ease,-1.1643,0.865,0.945
+Crisis,Hold,-0.2193,0.88,0.0
+Crisis,Tighten,0.7824,0.94,1.0017
